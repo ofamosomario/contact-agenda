@@ -1,7 +1,11 @@
 > *Project status:* completed
+> 
 > *:busts_in_silhouette: Author:* Mário Augusto Carvalho Lara Leite
+> 
 > *:email: Email:* tkyakow@gmail.com
+> 
 > :date: *Year:* 2024
+> 
 
 # Case:
 O usuário acessa a plataforma, realiza seu cadastro e em seguida faz seu login, caso não lembre a senha cadastrada pode recuperá-la através de seu e-mail.
