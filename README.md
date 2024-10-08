@@ -48,6 +48,7 @@ Deve ser utilizado para obter a latitude e longitude do endereço do contato qua
 
 # Versions:
 > ruby 3.3.4 (2024-07-09 revision be1089c8ec) [x86_64-linux]
+> 
 > Rails 7.1.4
 
 # Tests
